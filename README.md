@@ -25,4 +25,4 @@ Eg.When you tap a small profile picture and it expands full screen — that’s 
    flutter run
 
 # Image of how it looks like
- go to image folder
+ go to images folder
